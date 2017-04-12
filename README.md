@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+hello there.
+
+My name is Chinmay Verlekar.
